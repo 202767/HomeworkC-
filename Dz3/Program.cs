@@ -39,6 +39,7 @@ double Z2 = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine(Math.Round(ShowDistance(X1, Y1, Z1, X2, Y2, Z2), 2));
 */
 // Task23. Напишите программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N.
+/*
 void TableOfCubes(int num)
 {
     int index = 1;
@@ -54,3 +55,4 @@ int number = Convert.ToInt32(Console.ReadLine());
 
 if (number <= 0) Console.WriteLine("Wrong input!");
 else TableOfCubes(number);
+*/
