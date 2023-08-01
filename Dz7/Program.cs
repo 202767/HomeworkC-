@@ -136,5 +136,6 @@ int columns = Convert.ToInt32(Console.ReadLine());
 
 int[,] myArray = Create2dArray(rows, columns);
 Show2dArray(myArray);
+Console.WriteLine();
 GetColumnsArithmeticMean(myArray);
 */
